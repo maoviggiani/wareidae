@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://wielaexoot.dlockamy.com/sitemap.xml
